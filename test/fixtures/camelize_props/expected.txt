@@ -1,0 +1,11 @@
+{
+  "multiWordSym" => {
+    "nestedKey" => [
+      { "doubleNested" => true },
+      1,
+      "string item",
+      [ { "nestedArray" => {} }],
+    ]
+  },
+  "alreadyCamelized" => :ok
+}

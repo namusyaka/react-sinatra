@@ -1,0 +1,4 @@
+--exclude lib/react/sinatra/templates/
+-
+lib/**/*.rb
+lib/react/sinatra/runtime.rb

@@ -1,0 +1,11 @@
+{
+  multi_word_sym: {
+    nested_key: [
+      {double_nested: true},
+      1,
+      "string item",
+      [ { nested_array: {} }],
+    ]
+  },
+  "alreadyCamelized" => :ok,
+}

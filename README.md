@@ -22,12 +22,12 @@ Or install it yourself as:
 
 `react-sinatra` does not:
 
-- transform `.jsx` files.
+- transform `.jsx` files or JSX syntax.
 - transpile asset using babel.
 - support asset-pipeline.
 - have generator for registering this extension.
 
-I think those features should be solved by using [webpack](https://webpack.github.io/).
+I think those features should be solved by using [webpack](https://webpack.github.io/), or other build tools.
 
 ## Usage
 

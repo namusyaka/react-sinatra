@@ -4,6 +4,8 @@
 
 `react-sinatra` makes it easy to use React in your Sinatra and Padrino application.
 
+Please see [a sample](https://github.com/namusyaka/react-sinatra-sample).
+
 ## Installation
 
 Add this line to your application's Gemfile:

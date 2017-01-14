@@ -131,7 +131,6 @@ end
 ### TODO
 
 - Support nodejs as a runtime
-- Provide react-ujs-sinatra as a npm package
 
 ## Contributing
 

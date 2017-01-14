@@ -1,6 +1,7 @@
 require 'json'
 require 'padrino-helpers'
 require 'active_support/core_ext/hash/reverse_merge'
+require 'active_support/core_ext/string/inflections'
 require 'react/sinatra/pool'
 
 module React

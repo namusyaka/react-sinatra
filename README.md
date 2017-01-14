@@ -1,5 +1,7 @@
 # react-sinatra
 
+[![Build Status](https://travis-ci.org/namusyaka/react-sinatra.svg?branch=master)](https://travis-ci.org/namusyaka/react-sinatra)
+
 `react-sinatra` makes it easy to use React in your Sinatra and Padrino application.
 
 ## Installation

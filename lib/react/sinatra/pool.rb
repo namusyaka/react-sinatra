@@ -44,6 +44,7 @@ module React
       # @!visibility private
       def reset
         @pool = nil
+        pool
       end
 
       # Returns an instance of ConnectionPool.

@@ -4,7 +4,6 @@
 [![Dependency Status](https://gemnasium.com/badges/github.com/namusyaka/react-sinatra.svg)](https://gemnasium.com/github.com/namusyaka/react-sinatra)
 [![Gem Version](https://badge.fury.io/rb/react-sinatra.svg)](https://badge.fury.io/rb/react-sinatra)
 [![GitHub issues](https://img.shields.io/github/issues/namusyaka/react-sinatra.svg)](https://github.com/namusyaka/react-sinatra/issues)
-[![GitHub stars](https://img.shields.io/github/stars/namusyaka/react-sinatra.svg)](https://github.com/namusyaka/react-sinatra/stargazers)
 [![GitHub license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/namusyaka/react-sinatra/master/LICENSE.txt)
 
 `react-sinatra` makes it easy to use React in your Sinatra and Padrino application.

@@ -35,7 +35,7 @@ Or install it yourself as:
 - support asset-pipeline.
 - have generator for registering this extension.
 
-I think those features should be solved by using [webpack](https://webpack.github.io/), or other build tools.
+I think those features should be solved by using [webpack](https://webpack.js.org/), or other build tools.
 
 ## Usage
 
